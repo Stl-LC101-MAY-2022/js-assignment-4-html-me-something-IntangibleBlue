@@ -1,1 +1,70 @@
-/* Write your CSS here! */
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    border: 8px solid rgb(255, 0, 0);
+    border-radius: 25px;
+    margin: 10px;
+    display: block;
+    background-color: lightgray;
+}
+
+li {
+    font-weight: bolder;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px:
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 35px;  
+    margin: 8px;
+    display: block;
+}
+
+h2 {
+    padding-top: 25px;
+    border-top: 2px solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+p {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 80px;
+    margin-left: 80px;
+}
+
+#mainHeading {
+    font-size: 55px;
+    color: red;
+    text-shadow: 4px 4px 5px black;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+.centered {
+    text-align: center
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    height: 75%;
+  }
+
+.funParagraph {
+    padding-bottom: 40px;
+    border-bottom: 2px solid; 
+    border-color: black;
+    color: green;
+}
